@@ -8,7 +8,7 @@ int search(int arr[], int n, int x){
 	return -1;
 }
 
-//driver
+//drivers
 int main(void){
 	int arr[] = {5,2,1,5};
 	int x = 10;
